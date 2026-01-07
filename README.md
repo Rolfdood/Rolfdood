@@ -26,6 +26,3 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rolfdood&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
