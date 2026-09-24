@@ -1,6 +1,9 @@
 # 💫 About Me:
 
-🔭 I’m currently working on improving my web and mobile programming skills.<br>⚡ Fun fact I am a Computer Science student at FEU-Tech
+🔭 I’m a Computer Science graduate passionate about building web applications and continuously improving my software development skills.<br>
+💻 I enjoy working on the backend but I can also contribute working fullstack.<br>
+🤓 I have also lead projects as a Project Manager.<br>
+⚡ I’m always exploring new technologies and building projects to expand my skills and create useful software solutions.<br>
 
 ## 🌐 Socials:
 
